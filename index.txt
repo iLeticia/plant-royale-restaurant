@@ -1,9 +1,9 @@
-Plant Royale - Natural & Delicioso
+Grilli - Natural & Delicioso
 
 #---------- TOP BAR ----------#
 
 <ion-icon name="location-outline" aria-hidden="true"></ion-icon>
- Restaurante Plant Royale - Batel, Curitiba, PR 
+ Restaurante Grilli - Batel, Curitiba, PR 
 
 <ion-icon name="time-outline" aria-hidden="true"></ion-icon>
 Todos os dias de 8:00 até 22:00
@@ -18,7 +18,7 @@ agendamentos@plantroyale.com
 
 #---------- HEADER ----------#
 
-alt = Plant Royale - Home
+alt = Grilli - Home
 
 aria-label = close menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
@@ -31,7 +31,7 @@ Contato
 
 Faça uma visita
 
- Restaurante Plant Royale - 
+ Restaurante Grilli - 
  Batel, Curitiba, PR 
 
 Abertos: 08:00 - 22:00
